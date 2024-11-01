@@ -2,7 +2,7 @@ import requests
 import csv
 
 # Define your API key
-API_KEY = "1d380a63b92d6d9da3b184051a2abc2cd2af94a5"
+API_KEY = "..."
 
 # Function to get all protocols on Ethereum mainnet
 def get_protocols():
